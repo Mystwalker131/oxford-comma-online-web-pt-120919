@@ -8,5 +8,5 @@
 
 def oxford_comma(array) 
 "kiwi".split(",")
-#=> ["kiwi"]
+=> ["kiwi,"]
 end
