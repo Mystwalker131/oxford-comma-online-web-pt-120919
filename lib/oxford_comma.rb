@@ -7,8 +7,8 @@
 
 
 def oxford_comma(array) 
-oxford_comma = "kiwi","durian"  
+ 
 ["kiwi", "durian"].join
 #=> ["kiwi"]
-
+oxford_comma = "kiwi","durian" 
 end
