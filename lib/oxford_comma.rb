@@ -7,5 +7,5 @@
 
 
 def oxford_comma(array) 
-("kiwi").split(",")
-#=> ["kiwi,"]
+("kiwi").to_a(",")
+=> ["kiwi,"]
