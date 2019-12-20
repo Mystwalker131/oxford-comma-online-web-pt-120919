@@ -10,5 +10,5 @@ def oxford_comma(array)
  
 ["kiwi", ].join
 #=> ["kiwi"]
-oxford_comma = "kiwi"
+oxford_comma = (",")
 end
