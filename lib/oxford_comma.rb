@@ -8,7 +8,7 @@
 
 def oxford_comma(array) 
   
-"kiwi".to_a(",")
+"kiwi".join(",")
 #=> ["kiwi"]
 
 end
