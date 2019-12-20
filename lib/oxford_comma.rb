@@ -6,7 +6,7 @@
 
 
 
-def oxford_comma(array) #write a method ,oxford_comma
+def oxford_comma(array) 
 "kiwi".split(",")
 #=> ["kiwi"]
 end
