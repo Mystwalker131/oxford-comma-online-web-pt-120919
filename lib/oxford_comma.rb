@@ -9,4 +9,3 @@
 def oxford_comma(array) 
 "kiwi".split(",")
 => ["kiwi,"]
-# end
